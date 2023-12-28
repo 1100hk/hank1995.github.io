@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 'hello world!'
+subtitle: 'you are not a child any longer'
 description: ''
-keywords:
+keywords: "DataBase"
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
